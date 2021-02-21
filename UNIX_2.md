@@ -13,7 +13,8 @@ find -mtime +100 -type f -ls
 
 - -mtime 부호 의미
 
-[UNIX_2%20%E1%84%91%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%B5%20b939fe092c8b4ad6a695853e13b65171/mtime.jfif](UNIX_2%20%E1%84%91%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%B5%20b939fe092c8b4ad6a695853e13b65171/mtime.jfif)
+![mtime](https://user-images.githubusercontent.com/59443692/108612961-564bea00-7430-11eb-9db2-d4401d2e326e.jpg)
+
 
 **2. 명령어 (ll)**
 
